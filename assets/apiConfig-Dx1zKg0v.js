@@ -1,0 +1,1 @@
+import{d as e}from"./pinia--8Gmfku1.js";import{a as n}from"./index-De3j1VZw.js";import{a7 as r}from"./vue-mr2w3f1M.js";const g=e("config",()=>{const o=r({});function i(){n.get("/configuration").then(t=>{Object.assign(o,t)})}return{apiConfig:o,getApiConfig:i}});export{g as u};
